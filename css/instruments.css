@@ -1,0 +1,29 @@
+#content {
+	width: 1000px;
+	margin: auto;
+}
+
+h1 {
+	font-family: verdana;
+	float: left;
+	clear: left;
+}
+
+p {
+	float: left;
+	text-align: left;
+}
+
+ul {
+	width: 950px;
+	margin: auto;
+	padding: auto;
+	float: left;
+}
+
+li {
+	display: inline;
+	text-align: center;
+	float: left;
+	width: 300px;
+}
